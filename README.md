@@ -1,6 +1,6 @@
 # Web Scraping - Stocks Market
 
-Getting data from [statusinvest](https://statusinvest.com.br) stock market and creating visualizing the rank stocks to find the best ones according to indexes stipulated.
+Getting data from [statusinvest](https://statusinvest.com.br) stock market and visualizing the top ranked stocks according to indexes stipulated.
 
 ### Paths:
 1) Getting stock market data from [statusinvest](https://statusinvest.com.br) website
